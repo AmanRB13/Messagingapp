@@ -6,6 +6,7 @@ import 'Pages/homepage.dart';
 import 'Pages/loginpage.dart';
 import 'Theme/mode.dart';
 import 'Theme/themeprovider.dart';
+import 'Pages/auth_wrapper.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -29,7 +30,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: context.watch<ThemeProvider>().themeData,
-      home: Authentication(),
+      home:  const AuthWrapper(),
       routes: {
         '/home': (context) => Homepage(),
         '/auth': (context) => Authentication(),
