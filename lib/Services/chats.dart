@@ -174,7 +174,7 @@ class _ChatsscreenState extends State<Chatsscreen> {
                 ),
               ),
 
-              /// 🔹 INPUT
+              /// INPUT
               Container(
                 padding: const EdgeInsets.symmetric(
                   horizontal: 8,
@@ -190,19 +190,23 @@ class _ChatsscreenState extends State<Chatsscreen> {
                         child: Padding(
                           padding: const EdgeInsets.symmetric(
                               horizontal: 8, vertical: 5),
-                          child: TextField(
-                            controller: _textcontroller,
-                            style: TextStyle(
-                              color: isDark ? Colors.white : Colors.black87,
-                            ),
-                            decoration: InputDecoration(
-                              hintText: 'Enter your message...',
-                              hintStyle: TextStyle(
-                                color: isDark ? Colors.white70 : Colors.grey,
-                              ),
-                              border: InputBorder.none,
-                            ),
-                          ),
+                         child:  TextField(
+  controller: _textcontroller,
+  keyboardType: TextInputType.multiline,
+  textInputAction: TextInputAction.newline,
+  minLines: 1,
+  maxLines: 5,
+  style: TextStyle(
+    color: isDark ? Colors.white : Colors.black87,
+  ),
+  decoration: InputDecoration(
+    hintText: 'Enter your message...',
+    hintStyle: TextStyle(
+      color: isDark ? Colors.white70 : Colors.grey,
+    ),
+    border: InputBorder.none,
+  ),
+),
                         ),
                       ),
                     ),
