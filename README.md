@@ -19,16 +19,12 @@ MessagingApp provides secure authentication, instant messaging, user search, dar
 
 <img width="321" height="556" alt="image" src="https://github.com/user-attachments/assets/7c2cbb6f-6e9c-47ef-8a79-9c03d84c8c8b" />
 
-
-
 ---
 
 ## 🏠 Home Screen
 
 The home screen displays registered users and allows users to search and start conversations.
 <img width="302" height="665" alt="image" src="https://github.com/user-attachments/assets/03dba5a7-d8b0-4546-bf80-7217f892e10f" />
-
-
 
 ---
 
@@ -38,15 +34,13 @@ Real-time one-to-one messaging interface with message actions.
 
 <img width="312" height="662" alt="image" src="https://github.com/user-attachments/assets/86c78279-0309-45b7-8975-6426d7aafb99" />
 
-
-
 ---
 
 ## 🌙 Dark Mode
 
 Supports dynamic light and dark themes.
 
-![alt text](image-5.png)
+<img width="307" height="681" alt="image" src="https://github.com/user-attachments/assets/ca6c4841-6217-4f63-872f-62ae8910e7f8" />
 
 
 ---
