@@ -12,11 +12,13 @@ MessagingApp provides secure authentication, instant messaging, user search, dar
 
 ### Login Screen
 
-![alt text](image-2.png)
+<img width="301" height="503" alt="image" src="https://github.com/user-attachments/assets/3a41c8d6-3e49-4c17-936e-1d898e06fe55" />
+
 
 ### Registration Screen
 
-![alt text](image-1.png)
+<img width="321" height="556" alt="image" src="https://github.com/user-attachments/assets/7c2cbb6f-6e9c-47ef-8a79-9c03d84c8c8b" />
+
 
 
 ---
@@ -24,8 +26,8 @@ MessagingApp provides secure authentication, instant messaging, user search, dar
 ## 🏠 Home Screen
 
 The home screen displays registered users and allows users to search and start conversations.
+<img width="302" height="665" alt="image" src="https://github.com/user-attachments/assets/03dba5a7-d8b0-4546-bf80-7217f892e10f" />
 
-![alt text](image-3.png)
 
 
 ---
@@ -34,8 +36,9 @@ The home screen displays registered users and allows users to search and start c
 
 Real-time one-to-one messaging interface with message actions.
 
+<img width="312" height="662" alt="image" src="https://github.com/user-attachments/assets/86c78279-0309-45b7-8975-6426d7aafb99" />
 
-![alt text](image-4.png)
+
 
 ---
 
