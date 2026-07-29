@@ -297,21 +297,7 @@ For Google Sign-In:
 
 ---
 
-# 📂 Screenshots Folder
 
-Add screenshots inside:
-
-```
-screenshots/
-│
-├── login.png
-├── register.png
-├── home.png
-├── chat.png
-└── dark_mode.png
-```
-
----
 
 # 🔮 Future Improvements
 
@@ -341,7 +327,8 @@ Feel free to improve the project and submit a pull request.
 
 ---
 
-# 👨‍💻 Developer
+# 👨‍💻 Developer : 
+  Aman Ranabhat
 
 Developed with:
 
